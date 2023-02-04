@@ -248,6 +248,17 @@ h6 {
   z-index: 2;
   min-width: 300px;
  
+  
+}
+
+@media (min-width: 1080px) {
+  #hero .hero-container {
+    position: relative;
+    z-index: 2;
+    min-width: 300px;
+    margin-left:55%;
+    margin-top: 10%;
+  }
 }
 
 @media (min-width:1080px) {
