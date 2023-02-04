@@ -250,6 +250,17 @@ h6 {
  
 }
 
+@media (min-width:1080px) {
+  
+  #hero .hero-container {
+    position: relative;
+    z-index: 2;
+    min-width: 300px;
+   margin-left: 55%;
+   margin-top: 30%;
+  }
+}
+
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 64px;
